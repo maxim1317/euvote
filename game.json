@@ -1,0 +1,516 @@
+{
+  "participants": [
+    {
+      "name": "Andrew",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "Morkovnyjonny",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "oberon",
+      "avatar": "http://localhost:8000/static/avatars/oberon.jpg",
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "test-4",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "test-5",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "test-6",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "test-7",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "test-8",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "test-9",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "test-10",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "test-11",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "test-12",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "test-13",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "test-14",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "test-15",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "test-16",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "test-17",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "test-18",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "test-19",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "test-20",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "test-21",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "test-22",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "atest-23",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "spectators",
+      "avatar": null,
+      "points": 0,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    }
+  ],
+  "save_file": "game.json",
+  "audio_name": "http://localhost:8000/static/audio/bg.mp3",
+  "player_name": "oberon",
+  "voter": {
+    "name": "win",
+    "avatar": null,
+    "points": 0,
+    "available_votes": [],
+    "voted_for": {},
+    "can_vote": true,
+    "is_checked": false
+  },
+  "vote_buff": {
+    "spectators": {
+      "Andrew": {
+        "voted_for": "Andrew",
+        "vote": 1
+      },
+      "Morkovnyjonny": {
+        "voted_for": "Morkovnyjonny",
+        "vote": 3
+      },
+      "oberon": {
+        "voted_for": "oberon",
+        "vote": 2
+      },
+      "test-4": {
+        "voted_for": "test-4",
+        "vote": 110
+      }
+    }
+  }
+}

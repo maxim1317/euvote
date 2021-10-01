@@ -1,0 +1,123 @@
+{
+  "participants": [
+    {
+      "name": "Andrew",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "Morkovnyjonny",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "oberon",
+      "avatar": "http://localhost:8000/static/avatars/oberon.jpg",
+      "points": 0
+    },
+    {
+      "name": "test-4",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "test-5",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "test-6",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "test-7",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "test-8",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "test-9",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "test-10",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "test-11",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "test-12",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "test-13",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "test-14",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "test-15",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "test-16",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "test-17",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "test-18",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "test-19",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "test-20",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "test-21",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "test-22",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "atest-23",
+      "avatar": null,
+      "points": 0
+    },
+    {
+      "name": "spectators",
+      "points": 0
+    }
+  ]
+}
