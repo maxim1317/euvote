@@ -35,6 +35,8 @@ class Participant(BaseModel):
     name: str
     avatar: Optional[str] = None
     points: int = 0
+    j_75_played: bool = False
+    j_100_played: bool = False
 
     available_votes: List[int] = [
         12, 10,
