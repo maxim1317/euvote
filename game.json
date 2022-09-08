@@ -531,7 +531,7 @@
   ],
   "save_file": "game.json",
   "audio_name": "http://localhost:8000/static/audio/bg.mp3",
-  "player_name": "spectators",
+  "player_name": "Morkovnyjonny",
   "voter": {
     "name": "win",
     "avatar": null,
