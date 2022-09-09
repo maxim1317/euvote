@@ -1,9 +1,9 @@
 {
   "participants": [
     {
-      "name": "Andrew",
+      "name": "test-5",
       "avatar": null,
-      "points": 0,
+      "points": 12,
       "j_75_played": false,
       "j_100_played": false,
       "available_votes": [
@@ -16,7 +16,31 @@
         4,
         3,
         2,
-        1
+        1,
+        0
+      ],
+      "voted_for": {},
+      "can_vote": true,
+      "is_checked": false
+    },
+    {
+      "name": "Andrew",
+      "avatar": null,
+      "points": 6,
+      "j_75_played": false,
+      "j_100_played": false,
+      "available_votes": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -38,9 +62,13 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
-      "voted_for": {},
+      "voted_for": {
+        "Andrew": 6,
+        "test-5": 12
+      },
       "can_vote": true,
       "is_checked": false
     },
@@ -60,7 +88,8 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -82,29 +111,8 @@
         4,
         3,
         2,
-        1
-      ],
-      "voted_for": {},
-      "can_vote": true,
-      "is_checked": false
-    },
-    {
-      "name": "test-5",
-      "avatar": null,
-      "points": 0,
-      "j_75_played": false,
-      "j_100_played": false,
-      "available_votes": [
-        12,
-        10,
-        8,
-        7,
-        6,
-        5,
-        4,
-        3,
-        2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -126,7 +134,8 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -148,7 +157,8 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -170,7 +180,8 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -192,7 +203,8 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -214,7 +226,8 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -236,7 +249,8 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -258,7 +272,8 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -280,7 +295,8 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -302,7 +318,8 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -324,7 +341,8 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -346,7 +364,8 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -368,7 +387,8 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -390,7 +410,8 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -412,7 +433,8 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -434,7 +456,8 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -456,7 +479,8 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -478,7 +502,8 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -500,7 +525,8 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -522,7 +548,8 @@
         4,
         3,
         2,
-        1
+        1,
+        0
       ],
       "voted_for": {},
       "can_vote": true,
@@ -530,8 +557,8 @@
     }
   ],
   "save_file": "game.json",
-  "audio_name": "http://localhost:8000/static/audio/bg.mp3",
-  "player_name": "Morkovnyjonny",
+  "audio_name": "http://127.0.0.1:8000/static/audio/bg.mp3",
+  "player_name": "oberon",
   "voter": {
     "name": "win",
     "avatar": null,
